@@ -1,11 +1,9 @@
-
 h1 {
     color: rgb(20, 81, 237);
     text-align: center;
     letter-spacing: 1px;
     font-weight: bolder;
 }
-
 div {
     border: 2px solid black;
     margin: 16px;
@@ -13,14 +11,12 @@ div {
     box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.7);
     border-radius: 20px;
 }
-
 #container {
     margin: 24px;
     padding: 24px;
     color: white;
     text-align: center;
 }
-
 #input {
     color: black;
     width: 30%;
@@ -28,10 +24,8 @@ div {
     text-align: center; 
    border-radius: 14px;
     font-size: 17px;
-    font-weight: bold;
-   
+    font-weight: bold;   
 }
-
 #btn {
     border-radius: 10px;
     padding: 10px;
@@ -39,10 +33,7 @@ div {
     cursor: pointer;
     font-weight: bold;
     background-color: aqua;
-    
-
 }
-
 #btn1 {
     border-radius: 10px;
     padding: 10px;
@@ -50,8 +41,6 @@ div {
     cursor: pointer;
     font-weight: bold;
     background-color: blue;
-
-
 }
 #btn2 {
     border-radius: 10px;
@@ -61,7 +50,4 @@ div {
     font-weight: bold;
     background-color: pink;
 
-
-#btn:hover {
-    box-shadow: 13px 30px 41px -8px rgba(0, 0, 0, 0.95);
 }
